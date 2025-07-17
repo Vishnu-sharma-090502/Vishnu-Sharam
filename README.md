@@ -64,4 +64,10 @@
   <a href="mailto:Vishnusharma090502@gmail.com">
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="30" alt="Gmail" />
   </a>
+    <a href="https://instagram.com/Vishnu_sharma0109" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="30" alt="Instagram" />
+  </a>
+  <a href="https://wa.me/918447564666" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/220/220236.png" width="30" alt="WhatsApp" />
+  </a>
 </p>
