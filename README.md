@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Frontend Developer from India 🇮🇳</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=500&lines=Frontend+Developer;HTML+%7C+CSS+%7C+JavaScript;React+Learner+%7C+Python+Basics;Web+Design+Enthusiast;Building+Responsive+Websites" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=500&lines=Frontend+Developer;HTML+%7C+CSS+%7C+JavaScript;React+Learner+%7C+Python+Basics;Web+Design+Enthusiast;Building+Responsive+Websites" alt="Typing SVG" />
 </p>
 
 ---
@@ -29,28 +29,11 @@
 
 ---
 
-### 📊 GitHub Stats (Auto Dark/Light Mode)
+### 📊 GitHub Stats
 
 <p align="center">
-  <picture>
-    <source 
-      srcset="https://github-readme-stats.vercel.app/api?username=vishnusharma090502&show_icons=true&theme=dark" 
-      media="(prefers-color-scheme: dark)" />
-    <source 
-      srcset="https://github-readme-stats.vercel.app/api?username=vishnusharma090502&show_icons=true&theme=default" 
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-    <img src="https://github-readme-stats.vercel.app/api?username=vishnusharma090502&show_icons=true" />
-  </picture>
-
-  <picture>
-    <source 
-      srcset="https://github-readme-streak-stats.herokuapp.com?user=vishnusharma090502&theme=dark" 
-      media="(prefers-color-scheme: dark)" />
-    <source 
-      srcset="https://github-readme-streak-stats.herokuapp.com?user=vishnusharma090502&theme=default" 
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=vishnusharma090502" />
-  </picture>
+  <img src="https://github-readme-stats.vercel.app/api?username=vishnusharma090502&show_icons=true&theme=radical" width="47%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=vishnusharma090502&theme=radical" width="47%" />
 </p>
 
 ---
